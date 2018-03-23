@@ -18,7 +18,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ListView theList = (ListView)findViewById(R.id.theList);
+        ListView theList = (
+                ListView)findViewById(R.id.theList);
         ArrayAdapter<String> theData =
                 new ArrayAdapter<String>(this, R.layout.array_layout, items);
         theList.setAdapter( theData );
