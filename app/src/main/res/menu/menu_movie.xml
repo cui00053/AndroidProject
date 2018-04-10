@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/activity_one"
+        android:title="ocTranspo"
+        android:icon="@drawable/bus"
+        android:orderInCategory="101"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/activity_three"
+        android:title="patient"
+        android:icon="@drawable/icons8_google_forms_filled_100"
+        android:orderInCategory="102"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/activity_four"
+        android:title="quiz"
+        android:icon="@drawable/icons8_faq_filled_100"
+        android:orderInCategory="103"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/importXML"
+        android:title="@string/import_movie"
+        android:orderInCategory="104"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/about"
+        android:title="@string/about"
+        android:orderInCategory="105"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/help"
+        android:title="@string/help"
+        app:showAsAction="never"/>
+
+
+
+
+
+</menu>

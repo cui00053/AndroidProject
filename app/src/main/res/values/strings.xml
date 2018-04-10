@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">CST2335-FINAL-PROJECT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="help">Help</string>
+    <string name="ok">Ok</string>
+    <string name="about">About</string>
+    <string name="mainTitle">CST2335 Final Project</string>
+    <string name="movieAppDesc">Movie Information Selected</string>
+
     <string name="addMovieButton">Add new movie</string>
     <string name="vieStatisticsButton">View statistics</string>
     <string name="movie_detail_title_header">Movie Title</string>
@@ -14,5 +21,8 @@
     <string name="movie_detail_url_header">Poster</string>
     <string name="movie_detail_add_button">Add</string>
     <string name="movie_detail_save_button">Save</string>
-
+    <string name="about_movie">Movie Activity is developed by Chenxiao.</string>
+    <string name="import_movie">Import XML File</string>
+    <string name="helpMessageMovie">You are in the Movie Information activities, click on the menu to go to other activities.</string>
+    <string name="aboutMessageMovie">Version 1, developed by Chenxiao Cui</string>
 </resources>
