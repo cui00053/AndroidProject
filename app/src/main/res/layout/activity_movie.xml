@@ -22,7 +22,8 @@
         android:layout_height="match_parent"
         android:layout_marginLeft="12dp"
         android:layout_marginTop="56dp"
-        android:layout_above="@+id/addMovieButton" >
+        android:layout_above="@+id/addMovieButton"
+        android:textSize="12dp"  >
 
 
     </ListView>
@@ -41,15 +42,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="12dp"
-        android:layout_above="@id/movie_progressBar"
-        android:text="@string/vieStatisticsButton" />
+        android:text="@string/vieStatisticsButton"
+        android:layout_alignParentBottom="true"/>
 
-    <ProgressBar
-        android:id="@+id/movie_progressBar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:visibility="visible" />
+
 
 </RelativeLayout>

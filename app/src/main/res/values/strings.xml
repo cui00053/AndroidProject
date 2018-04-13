@@ -25,4 +25,5 @@
     <string name="import_movie">Import XML File</string>
     <string name="helpMessageMovie">You are in the Movie Information activities, click on the menu to go to other activities.</string>
     <string name="aboutMessageMovie">Version 1, developed by Chenxiao Cui</string>
+    <string name="movie_download_button">download</string>
 </resources>
