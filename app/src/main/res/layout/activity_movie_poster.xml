@@ -5,16 +5,21 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.jihon.cst2335_final_project.MoviePoster">
+    tools:context="com.example.jihon.cst2335_final_project.MoviePoster"
+    android:id="@+id/moviePoster">
     <ImageView
-        android:id="@+id/weatherImageView"
+        android:id="@+id/posterImageView"
         android:layout_width="300dp"
-        android:layout_height="400dp" />
+        android:layout_height="400dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="24dp"/>
 
     <Button
         android:id="@+id/cancel_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="25dp"
         android:text="@string/movie_detail_cancel_button"
     />
 

@@ -48,7 +48,8 @@
         android:layout_height="40dp"
         android:layout_below="@+id/movie_detail_actor_header"
         android:layout_marginLeft="12dp"
-        android:textSize="12dp" />
+        android:textSize="12dp"
+        android:scrollbars="vertical"/>
 
     <TextView
         android:id="@+id/movie_detail_length_header"
@@ -84,7 +85,8 @@
         android:layout_height="40dp"
         android:layout_below="@+id/movie_detail_description_header"
         android:layout_marginLeft="12dp"
-        android:textSize="12dp" />
+        android:textSize="12dp"
+        android:scrollbars="vertical"/>
 
     <TextView
         android:id="@+id/movie_detail_rating_header"
@@ -137,7 +139,8 @@
         android:layout_height="40dp"
         android:layout_below="@+id/movie_detail_url_header"
         android:layout_marginLeft="12dp"
-        android:textSize="12dp" />
+        android:textSize="12dp"
+        android:scrollbars="vertical"/>
 
     </RelativeLayout>
 
@@ -178,7 +181,8 @@
         android:layout_height="40dp"
         android:layout_below="@+id/movie_detail_actor_header2"
         android:layout_marginLeft="12dp"
-        android:textSize="12dp" />
+        android:textSize="12dp"
+        android:scrollbars="vertical"/>
 
     <TextView
         android:id="@+id/movie_detail_length_header2"
@@ -214,7 +218,8 @@
         android:layout_height="40dp"
         android:layout_below="@+id/movie_detail_description_header2"
         android:layout_marginLeft="12dp"
-        android:textSize="12dp" />
+        android:textSize="12dp"
+        android:scrollbars="vertical"/>
 
     <TextView
         android:id="@+id/movie_detail_rating_header2"
@@ -264,11 +269,11 @@
     <EditText
         android:id="@+id/movie_detail_url_value2"
         android:layout_width="match_parent"
-        android:scrollbars="vertical"
         android:layout_height="40dp"
         android:layout_below="@+id/movie_detail_url_header2"
         android:layout_marginLeft="12dp"
-        android:textSize="12dp" />
+        android:textSize="12dp"
+        android:scrollbars="vertical"/>
 
 
     </RelativeLayout>
