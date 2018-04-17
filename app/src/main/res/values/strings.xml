@@ -27,4 +27,7 @@
     <string name="aboutMessageMovie">Version 1, developed by Chenxiao Cui</string>
     <string name="movie_download_button">download</string>
     <string name="movie_detail_viewPoster">View Poster</string>
+    <string name="movie_maxRating_label">Highest Rating</string>
+    <string name="movie_minRating_label">Lowest Rating</string>
+    <string name="movie_avgRating_label">Average Rating</string>
 </resources>
