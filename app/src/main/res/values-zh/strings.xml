@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CST2335-FINAL-PROJECT</string>
+    <string name="addMovieButton">添加电影</string>
+    <string name="vieStatisticsButton">查看统计数据</string>
+    <string name="movie_detail_title_header">电影名称</string>
+    <string name="movie_detail_actor_header">主要演员</string>
+    <string name="movie_detail_length_header">片长</string>
+    <string name="movie_detail_description_header">简介</string>
+    <string name="movie_detail_rating_header">评分</string>
+    <string name="movie_detail_edit_button">编辑</string>
+    <string name="movie_detail_cancel_button">取消</string>
+    <string name="movie_detail_delete_button">删除</string>
+    <string name="movie_detail_genre_header">类别</string>
+    <string name="movie_detail_url_header">海报</string>
+    <string name="movie_detail_add_button">添加</string>
+    <string name="movie_detail_save_button">保存</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="help">帮助</string>
+    <string name="ok">确认</string>
+    <string name="about">关于</string>
+    <string name="mainTitle">CST2335 Final Project</string>
+    <string name="movieAppDesc">已选择“电影信息”</string>
+    <string name="about_movie">“电影信息”功能由Chenxiao Cui开发。</string>
+    <string name="import_movie">导入XML文件</string>
+    <string name="helpMessageMovie">您当前在“电影信息”界面，请点击菜单去其他界面</string>
+    <string name="aboutMessageMovie">版本1，由Chenxiao Cui开发。</string>
+    <string name="movie_download_button">下载</string>
+    <string name="movie_detail_viewPoster">浏览海报</string>
+    <string name="movie_maxRating_label">最高评分</string>
+    <string name="movie_minRating_label">最低评分</string>
+    <string name="movie_avgRating_label">平均评分</string>
+</resources>
