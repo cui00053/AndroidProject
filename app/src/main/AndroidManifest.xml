@@ -21,7 +21,6 @@
         <activity android:name=".AddMovie" />
         <activity android:name=".MovieDetails" />
         <activity android:name=".MovieImport" />
-        <activity android:name=".MoviePoster"></activity>
     </application>
 
 </manifest>
